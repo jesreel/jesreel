@@ -1,6 +1,6 @@
 ## Jesreel de Morais
 
-[![My Skills](https://skillicons.dev/icons?i=php,python,postgresql,mysql,bash,bootstrap,css,git,github,gmail,html,js,jquery,nginx,vim,vscode,&perline=31)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,python,postgresql,mysql,linux,apache,nginx,html,css,bootstrap,css,git,github,jquery,vscode,bluefish&perline=31)](https://skillicons.dev)
 
 
 
